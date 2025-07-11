@@ -1,47 +1,14 @@
-body {
-  font-family: sans-serif;
-  text-align: center;
-  background: #f0f8ff;
-}
+body { font-family: sans-serif; text-align: center; background: url('https://iili.io/FG1qNP2.md.png'); background-size: cover; }
 
-.track {
-  position: relative;
-  height: 80px;
-  margin: 10px;
-  background: #cceeff;
-  border: 2px solid #0099cc;
-  border-radius: 10px;
-}
+.track { position: relative; height: 80px; margin: 10px; background: url('https://iili.io/FG1xrGf.md.png'); background-size: cover; border: 2px solid #0099cc; border-radius: 10px; }
 
-.abidala {
-  position: absolute;
-  height: 60px;
-  width: 60px;
-  top: 10px;
-  left: 0;
-  transition: left 0.1s;
-}
+.abidala { position: absolute; height: 60px; width: 60px; top: 10px; left: 0; transition: left 0.1s; }
 
-#finish-line {
-  position: absolute;
-  right: 0;
-  top: 0;
-  height: 100%;
-  width: 5px;
-  background: red;
-}
+#finish-line { position: absolute; right: 0; top: 0; height: 100%; width: 5px; background: red; }
 
-.controls {
-  margin: 20px auto;
-  max-width: 500px;
-}
+.controls { margin: 20px auto; max-width: 500px; }
 
-button {
-  padding: 10px 20px;
-  font-size: 16px;
-}
+button { padding: 10px 20px; font-size: 16px; }
 
-.money {
-  font-size: 18px;
-  margin-bottom: 10px;
-}
+.money { font-size: 18px; margin-bottom: 10px; }
+
